@@ -292,7 +292,7 @@ struct fb_var_screeninfo {
  __u32 rotate;
 /* WARNING: DO NOT EDIT, AUTO-GENERATED CODE - SEE TOP FOR INSTRUCTIONS */
  __u32 colorspace;
- __u32 reserved[4];
+ __u32 reserved[5];
 };
 struct fb_cmap {
 /* WARNING: DO NOT EDIT, AUTO-GENERATED CODE - SEE TOP FOR INSTRUCTIONS */
